@@ -13,7 +13,7 @@ PHP-LDAPAuth is a robust PHP-based solution for integrating LDAP authentication 
 ## Usage
 To use PHP-LDAP-Auth in your project:
 - Include the necessary PHP files in your project.
-- Configure the LDAP settings in LDAPConfig.php.
+- Configure the LDAP and URLs in config.php.
 - Initialize the LDAPConnection and UserController classes in your login script.
 
 ## Configuration
